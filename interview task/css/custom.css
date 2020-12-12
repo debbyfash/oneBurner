@@ -1,0 +1,61 @@
+ul{
+	display: flex;
+	justify-content: flex-end;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+ul li a{
+	display: inline-block;
+
+	border-radius: 100px;
+	
+	color:black;
+	padding: 5px;
+}
+.logo {
+	position: absolute;
+left: -1.49%;
+right: 50%;
+top: -94.7%;
+bottom: -93.18%;
+padding-left: 0px;
+padding-right: 20px;
+}
+.product {
+	position: relative;
+	left: -1.49%;
+right: 85.28%;
+top: -94.7%;
+bottom: -93.18%;
+}
+.pricing {
+	left: -1.49%;
+right: 85.28%;
+top: -94.7%;
+bottom: -93.18%;
+}
+
+img{
+	size: 20%;
+	padding-bottom: 0px;
+	padding-top: 20px;
+}
+h1{
+	padding-top:0%;
+}
+
+.btn{
+	color: purple;
+	border-radius: 25% 25% 25% 25%;
+	border-width: 50%;
+}
+
+
+
+
+
+
+
+/* Support */
+
